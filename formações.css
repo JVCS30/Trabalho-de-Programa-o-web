@@ -1,0 +1,55 @@
+body {
+    color: white;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ul {
+    display: flex;
+
+    justify-content: space-around;
+
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+
+}
+
+a { 
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color:rgb(6, 226, 255); 
+  }
+  
+
+.l-texto {
+   margin-top: 100px;
+   justify-content: space-around;
+   align-items: center;
+
+}
+
+p {
+    line-height: 1.5;
+}
+
+.central {
+    text-align: center;
+
+}img {   
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid rgb(6, 226, 255) ;
+}
+
+.tudo {
+    padding: 0px 60px;
+}
+.titulo {
+    color: aqua;
+
+
+}
